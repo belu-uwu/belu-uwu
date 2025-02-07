@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=564871" />
+![Descripción de la imagen](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=564871)
 
 
 
