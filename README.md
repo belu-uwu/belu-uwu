@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/lNightcrawlerl.png" alt="Your Image Badge" />
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/564871.png)
 
 
 <!--
