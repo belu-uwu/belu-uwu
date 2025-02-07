@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/564871.png)
+![Texto alternativo](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=564871)
 
 
 <!--
