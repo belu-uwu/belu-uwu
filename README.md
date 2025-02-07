@@ -1,7 +1,6 @@
 ## Hi there 👋
-##<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=564871" 
-            style="border:none; width:300px; height:150px;">
-    </iframe>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/lNightcrawlerl.png" alt="Your Image Badge" />
 
 
 <!--
