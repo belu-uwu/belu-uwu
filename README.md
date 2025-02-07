@@ -6,7 +6,7 @@
 
 <!--
 Formas de insertar imagen:
-![Descripción de la imagen](https://picsum.photos/800/600)
+[![Title](Image URL)](Link URL)
 
 <image src="https://picsum.photos/800/600" alt="Descripción de la imagen">
 -->
