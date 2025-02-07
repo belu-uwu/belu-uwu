@@ -1,5 +1,17 @@
 ## Hi there 👋
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=564871" style='border:none;'></iframe>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Insignia TryHackMe</title>
+</head>
+<body>
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=564871" style="border:none;"></iframe>
+</body>
+</html>
+
 <!--
 **belu-uwu/belu-uwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
