@@ -3,6 +3,16 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/lNightcrawlerl.png" alt="Your Image Badge" />
 
+
+<!--
+Formas de insertar imagen:
+![Descripción de la imagen](https://picsum.photos/800/600)
+
+<image src="https://picsum.photos/800/600" alt="Descripción de la imagen">
+-->
+
+
+
 <!--
 **belu-uwu/belu-uwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
