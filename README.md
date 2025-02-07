@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/564871.png)](https://tryhackme.com/p/Nightcrawler1)
+[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=564871)](https://tryhackme.com/p/Nightcrawler1)
 
 <!--
 **belu-uwu/belu-uwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
