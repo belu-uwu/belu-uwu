@@ -1,12 +1,11 @@
 ## Hi there 👋
 [![Title](https://tryhackme-badges.s3.amazonaws.com/lNightcrawlerl.png)](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=564871)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/lNightcrawlerl.png" alt="Your Image Badge" />
 
 
 <!--
 Formas de insertar imagen:
-[![Title](Image URL)](Link URL)
+[![Descripcion de la imagen](Image URL)](Link URL)
 
 <image src="https://picsum.photos/800/600" alt="Descripción de la imagen">
 -->
